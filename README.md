@@ -1,5 +1,6 @@
 # Imersão-ALURA.IA📚
 
+
 🚀🚀**Análise de Banco de Dados com Python no Google Sheets com ajuda do ChatGPT**
 
 
